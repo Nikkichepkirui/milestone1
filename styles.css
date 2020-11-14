@@ -1,0 +1,61 @@
+/*css properties*/
+.h1{
+    text-align: center;
+    font-size: 30pt;
+    color: black;
+    font-family: fantasy;
+    background-color: beige;
+}
+.blues{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    color: floralwhite;
+}
+.tagline{
+    text-align: center;
+    font-size: medium;
+    font-family: cursive;
+    color: black;
+    font-weight: bold;
+}
+.description{
+    text-align: center;
+    font-size: 15pt;
+    font-family: Georgia;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.casual{
+    padding: 6px;
+    background: no-repeat;
+    text-align: center;
+}
+.invite{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Georgia;
+    font-size: 15pt;
+}
+.polaroid{
+   background-image: url("images/background\ image.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: round;
+}
+.container{
+    text-align: center;
+}
+.reg{
+    color: blue;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16pt;
+}
+.foot{
+    color: black;
+    font-family: serif;
+    font-size: 15pt;
+}
